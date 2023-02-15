@@ -1,0 +1,8 @@
+gets
+strcpy
+strcat
+sprintf
+snprintf
+scanf
+fscanf
+system
