@@ -22,13 +22,13 @@ dangerous_functions = {
     'c++': [],
     'c#': []
 }
-with open('dangerous_functions_python.txt', 'r') as f:
+with open('src/dangerous_functions_python.txt', 'r') as f:
     dangerous_functions['python'] = [line.strip() for line in f.readlines()]
-with open('dangerous_functions_c.txt', 'r') as f:
+with open('src/dangerous_functions_c.txt', 'r') as f:
     dangerous_functions['c'] = [line.strip() for line in f.readlines()]
-with open('dangerous_functions_c++.txt', 'r') as f:
+with open('src/dangerous_functions_c++.txt', 'r') as f:
     dangerous_functions['c++'] = [line.strip() for line in f.readlines()]
-with open('dangerous_functions_c#.txt', 'r') as f:
+with open('src/dangerous_functions_c#.txt', 'r') as f:
     dangerous_functions['c#'] = [line.strip() for line in f.readlines()]
 
 # Define the file extensions to search for each programming language
