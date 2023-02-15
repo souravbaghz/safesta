@@ -3,6 +3,7 @@
 </p>
 <h2 align="center"><b>Dangerous Functions Finder</b></h3> 
 
+#### Currently Supports: Python, C, C++ & C#
 #### Usage examples:
  ```
  python3 safesta.py -h 
