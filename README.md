@@ -7,3 +7,8 @@
  ```
  python3 safesta.py -h 
  python3 safesta.py dir/to/codes/ 
+```
+ #### Results:
+<p>
+  <img  width="950" src="img/safesta-desktop.png" />
+</p>
