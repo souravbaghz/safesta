@@ -1,0 +1,8 @@
+os.system
+os.popen
+subprocess.Popen
+pickle.loads
+eval
+exec
+execfile
+__import__
