@@ -1,0 +1,7 @@
+strcpy
+strcat
+sprintf
+snprintf
+gets
+system
+fstream
