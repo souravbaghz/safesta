@@ -11,7 +11,7 @@ print(" ▄█ █▀█ █▀░ ██▄ ▄█ ░█░ █▀
 print("  github.com/souravbaghz  ")
 print("")
 # Parse command-line arguments
-parser = argparse.ArgumentParser(description='Scan code files for dangerous function calls')
+parser = argparse.ArgumentParser(description='Scan Code Files for Dangerous Function Calls')
 parser.add_argument('directory', help='the directory to scan')
 args = parser.parse_args()
 
